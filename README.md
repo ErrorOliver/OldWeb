@@ -1,5 +1,5 @@
+![Under Construction](https://media.discordapp.net/attachments/1034211950781014120/1110659617920397312/underconstruction.gif)
 # OldWeb
-
 Welcome! This is the OldWeb website where we are back in the early 2000's! Let's get rock and rollin'!
 
 ## Introduction
@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - The design and inspiration for this project came from the early days of the internet and various nostalgic websites.
-- Special thanks to [ExampleUser](https://github.com/ExampleUser) for their contributions to this project.
+- Special thanks to [RowanCrE](https://github.com/Rowan-Bird) for their contributions to this project.
 
 ## Contact
 
